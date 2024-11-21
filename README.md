@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hoveringthyme76
-- 👀 I’m interested in engineering and computer science
-- 🌱 I’m currently learning Python, but I'm happy to learn more on other topics
-- 💞️ I’m looking to collaborate on any projects that are related to computer programming to broaden my current knowledge
+- 👋 Hi, I’m @Hoveringthyme76.
+- 👀 I’m interested in computer science.
+- 🌱 I’m currently learning Python, but I'm happy to learn more on other topics relating to computer programming.
+- 💞️ I’m looking to collaborate on any projects that are related to computer programming so I can broaden my current knowledge further.
 - 📫 How can you reach me? By DM me on discord by typing HoveringThyme 76.
 
 <!---
